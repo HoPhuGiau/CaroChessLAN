@@ -1,0 +1,33 @@
+D:\nguyên lý xây dựng\CaroChessLAN\CaroChessLAN\bin\Debug\CaroChessLAN.exe.config
+D:\nguyên lý xây dựng\CaroChessLAN\CaroChessLAN\bin\Debug\CaroChessLAN.exe
+D:\nguyên lý xây dựng\CaroChessLAN\CaroChessLAN\bin\Debug\CaroChessLAN.pdb
+D:\nguyên lý xây dựng\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.csproj.AssemblyReference.cache
+D:\nguyên lý xây dựng\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.csproj.SuggestedBindingRedirects.cache
+D:\nguyên lý xây dựng\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.Form1.resources
+D:\nguyên lý xây dựng\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.Properties.Resources.resources
+D:\nguyên lý xây dựng\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.csproj.GenerateResource.cache
+D:\nguyên lý xây dựng\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.csproj.CoreCompileInputs.cache
+D:\nguyên lý xây dựng\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.exe
+D:\nguyên lý xây dựng\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.pdb
+C:\Users\mangu\Downloads\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\bin\Debug\CaroChessLAN.exe.config
+C:\Users\mangu\Downloads\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\bin\Debug\CaroChessLAN.exe
+C:\Users\mangu\Downloads\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\bin\Debug\CaroChessLAN.pdb
+C:\Users\mangu\Downloads\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.csproj.AssemblyReference.cache
+C:\Users\mangu\Downloads\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.csproj.SuggestedBindingRedirects.cache
+C:\Users\mangu\Downloads\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.Form1.resources
+C:\Users\mangu\Downloads\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.Properties.Resources.resources
+C:\Users\mangu\Downloads\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.csproj.GenerateResource.cache
+C:\Users\mangu\Downloads\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.csproj.CoreCompileInputs.cache
+C:\Users\mangu\Downloads\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.exe
+C:\Users\mangu\Downloads\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.pdb
+D:\NetStudy\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\bin\Debug\CaroChessLAN.exe.config
+D:\NetStudy\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\bin\Debug\CaroChessLAN.exe
+D:\NetStudy\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.csproj.AssemblyReference.cache
+D:\NetStudy\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.csproj.SuggestedBindingRedirects.cache
+D:\NetStudy\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.Properties.Resources.resources
+D:\NetStudy\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.csproj.GenerateResource.cache
+D:\NetStudy\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.csproj.CoreCompileInputs.cache
+D:\NetStudy\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.exe
+D:\NetStudy\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.pdb
+D:\NetStudy\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\bin\Debug\CaroChessLAN.pdb
+D:\NetStudy\CaroChessLAN (1)\CaroChessLAN\CaroChessLAN\obj\Debug\CaroChessLAN.Form1.resources
